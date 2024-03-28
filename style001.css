@@ -124,6 +124,15 @@
 .selected__0b1ad .header__104ca, .clickable__2d589 .header__104ca:hover /* server name hover */ {
 	background: var(--message-hover);
 }
+
+.scroller__89969 {
+	background-color: hsl(0, 0%, 9%);
+}
+
+.searchBar_621ec {
+	background-color: hsl(0, 0%, 9%);
+}
+
 .message__80c10.replying_d7b6ad.selected_fd9051, .mouse-mode.full-motion .replying_d7b6ad:hover /* fix reply message hover */ {
 	background: var(--background-message-highlight-hover);
 }
